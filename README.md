@@ -1,3 +1,5 @@
+> This is a fork of [developit/greenlet](https://github.com/developit/greenlet) and it is published as [@bouchenoiremarc/greenlet](https://npm.im/@bouchenoiremarc/greenlet).
+
 <p align="center">
   <img src="https://i.imgur.com/e8XbYbd.png" width="1000" alt="Greenlet">
 </p>

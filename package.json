@@ -1,5 +1,5 @@
 {
-  "name": "greenlet",
+  "name": "@bouchenoiremarc/greenlet",
   "version": "1.1.0",
   "description": "Move an async function into its own thread.",
   "source": "greenlet.js",
@@ -25,7 +25,7 @@
     "index.d.ts",
     "dist"
   ],
-  "repository": "developit/greenlet",
+  "repository": "bouchenoiremarc/greenlet",
   "keywords": [
     "greenlet",
     "thread",
@@ -34,8 +34,9 @@
     "web worker"
   ],
   "author": "Jason Miller <jason@developit.ca> (http://jasonformat.com)",
+  "contributors": ["Marc Bouchenoire <mail@marcbouchenoire.com> (https://www.marcbouchenoire.com/)"],
   "license": "MIT",
-  "homepage": "https://github.com/developit/greenlet",
+  "homepage": "https://github.com/bouchenoiremarc/greenlet",
   "devDependencies": {
     "eslint": "^7.21.0",
     "eslint-config-developit": "^1.2.0",
