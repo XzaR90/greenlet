@@ -34,7 +34,9 @@
     "web worker"
   ],
   "author": "Jason Miller <jason@developit.ca> (http://jasonformat.com)",
-  "contributors": ["Marc Bouchenoire <mail@marcbouchenoire.com> (https://www.marcbouchenoire.com/)"],
+  "contributors": [
+    "Marc Bouchenoire <mail@marcbouchenoire.com> (https://www.marcbouchenoire.com/)"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/xzar90/greenlet",
   "devDependencies": {
@@ -42,6 +44,8 @@
     "eslint-config-developit": "^1.2.0",
     "karmatic": "^1.4.0",
     "microbundle": "^0.13.0",
-    "webpack": "^4.29.6"
+    "webpack": "^4.29.6",
+    "@babel/core": "^7.4.5",
+    "core-js": "^2.6.5"
   }
 }
